@@ -1,0 +1,14 @@
+accelerate==1.10.1
+comet==3.1.0
+datasets==3.3.2
+huggingface_hub==0.34.3
+jieba==0.42.1
+mosestokenizer==1.2.1
+numpy==2.3.5
+pandas==2.0.3
+peft==0.17.1
+sacrebleu==2.3.1
+sentence_transformers==5.1.2
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.56.1
